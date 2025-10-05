@@ -47,8 +47,8 @@ Se este trabalho for utilizado em pesquisas ou projetos, cite da seguinte forma:
 
 ## 🧾 Licença
 
-Este repositório está licenciado sob os termos da **MIT License** (ou outra de sua escolha).  
-Consulte o arquivo [`LICENSE`](LICENSE) para mais detalhes.
+Este repositório está licenciado sob os termos da **Creative Commons Attribution–NonCommercial 4.0 International (CC BY-NC 4.0)**.  
+Você pode **baixar, modificar e utilizar** este conteúdo **desde que cite a fonte e não o utilize para fins comerciais**.  
 
 ---
 
