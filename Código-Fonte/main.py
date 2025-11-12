@@ -28,6 +28,10 @@ logging.info("Variáveis de ambiente carregadas.")
 translator = Translator()
 logging.info("Tradutor inicializado.")
 
+<<<<<<< HEAD
+=======
+# -------------------- Funções --------------------
+>>>>>>> 0d334a753c0b69aa16b10f8709b246a7ccd0fbd2
 def load_model():
     try:
         model_name = "chatdb/natural-sql-7b"
@@ -123,6 +127,10 @@ def get_data_from_db(query, params=None):
     logging.info(f"Tempo de execução da consulta: {elapsed:.2f} segundos.")
     return result
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 0d334a753c0b69aa16b10f8709b246a7ccd0fbd2
 def send_whatsapp(number: str, message: str):
     """Abre o WhatsApp Web no navegador com o texto pronto"""
     texto_codificado = urllib.parse.quote(message)
