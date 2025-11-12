@@ -1,19 +1,22 @@
 # 🧑‍🎓 Trabalho de Conclusão de Curso (TCC)
 
 ## 📘 Título
-**[Título completo do trabalho]**
+**A IMPORTÂNCIA DO ACESSO IMEDIATO A DADOS PARA A TOMADA DE DECISÃO EMPRESARIAL**
 
 ## 👤 Autor
-**[Nome completo do aluno]**  
-Curso de [Nome do curso]  
-[Nome da instituição de ensino]  
+**Lucas Dallagnol Rossi**  
+Curso de Sistemas de Informação 
+Uniavan
 
 ## 🎓 Ano da Defesa
-**[Ano]**
+**2025**
 
 ---
 
-## 🗂️ Estrutura do Repositório
+## 🗂️ Código-Fonte
+    .env
+    main.py
+    monitoramento.py
 
 ---
 
@@ -23,7 +26,7 @@ Curso de [Nome do curso]
 
 Este repositório contém os materiais desenvolvidos no âmbito do **Trabalho de Conclusão de Curso (TCC)** intitulado:
 
-> **"[Título completo do trabalho]"**, apresentado por **[Nome do aluno]** em **[Ano]**, como requisito parcial para obtenção do título de **Bacharel em Sistemas de Informação** pelo **Centro Universitário Avantis - UNIAVAN**.
+> **A IMPORTÂNCIA DO ACESSO IMEDIATO A DADOS PARA A TOMADA DE DECISÃO EMPRESARIAL**, apresentado por **Lucas Dallagnol Rossi** em **2025**, como requisito parcial para obtenção do título de **Bacharel em Sistemas de Informação** pelo **Centro Universitário Avantis - UNIAVAN**.
 
 O repositório inclui código-fonte, materiais de apoio, apresentações e referências utilizadas ao longo do desenvolvimento do trabalho.
 
@@ -41,7 +44,7 @@ O repositório inclui código-fonte, materiais de apoio, apresentações e refer
 
 Se este trabalho for utilizado em pesquisas ou projetos, cite da seguinte forma:
 
-> **[SOBRENOME, Nome]**. *[Título do Trabalho]*. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informaação) — Centro Universitário Avantis - UNIAVAN, [Ano].
+> **Dallagnol Rossi, Lucas**. *A IMPORTÂNCIA DO ACESSO IMEDIATO A DADOS PARA A TOMADA DE DECISÃO EMPRESARIAL*. Trabalho de Conclusão de Curso (Bacharelado em Sistemas de Informaação) — Centro Universitário Avantis - UNIAVAN, 2025.
 
 ---
 
